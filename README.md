@@ -29,14 +29,14 @@ Nesse caso de uso o cliente pode escolher produtos cadastrados anteriormente pel
 |ADMINISTRADOR|
 | ----------- |
 
-Nesse caso de uso o administrador pode criar um produto sendo solicitado para o mesmo o código da mercadoria que deve ser único,nome do produto e valor,sendo possível também pesquisar um produto especifico,possível quando necessário a atualização de dados sobre o mesmo não sendo permitido a troca do código do produto assim como também a listagem de todos as mercadorias cadastrados, como a possibilidade de remover um produto da lista.
+Nesse caso de uso o administrador pode criar um produto sendo solicitado para o mesmo o código da mercadoria que deve ser único,nome do produto e valor,sendo possível também pesquisar um produto especifico,possível quando necessário, a atualização de dados sobre o mesmo não sendo permitido a troca do código do produto assim como também a listagem de todos as mercadorias cadastradas, como a possibilidade de remover um produto da lista.
 
 ![use case](userCase/CrudProduto.jpg)
 
 |ADMINISTRADOR - Arquivo|
 | ----------- |
 
-Nesse caso de uso o administrador pode listar compras de clientes passados que foram guardados em arquivos digitando o nome do arquivo como por exemplo o CPF do cliente ou o nome ,sendo possível também criar um arquivo onde será guardado os produtos cadastrados, com isso a opção de gerar um arquivo binário com a compra atual do cliente.
+Nesse caso de uso o administrador pode listar compras de clientes passados que foram guardados em arquivos, digitando o nome do arquivo como por exemplo o CPF do cliente ou o nome ,sendo possível também criar um arquivo onde será guardado os produtos cadastrados, com isso a opção de gerar um arquivo binário com a compra atual do cliente.
 
 ![use case](userCase/Arquivo.jpg)
 
